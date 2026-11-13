@@ -14,7 +14,6 @@ The lab is built around **Proxmox VE** and is intended to provide a safe environ
 
 | Component | Details |
 |---|---|
-| Host | [e.g., HP EliteDesk 800 G3 Mini] |
 | CPU | [model] |
 | RAM | [amount] |
 | Storage | [disks] |
