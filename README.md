@@ -14,16 +14,16 @@ The lab is built around **Proxmox VE** and is intended to provide a safe environ
 
 | Component | Details |
 |---|---|
-| CPU | [model] |
-| RAM | [amount] |
-| Storage | [disks] |
-| Network | [router / switch] |
+| CPU | Intel i5-9600K |
+| RAM | 2 x 16GB DDR4 |
+| Storage | 1TB HDD |
+| Network | Router & switches |
 
 ## Current Setup
 
-- Proxmox VE [version] installed on bare metal.
-- VMs: [list your Linux and Windows machines with their purpose].
-- Services: [self-hosted services you actually run today].
+- Proxmox VE 9.2.1 installed on bare metal.
+- VMs: Windows Server.
+- Services: .
 
 ## Roadmap
 
