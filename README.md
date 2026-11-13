@@ -35,7 +35,7 @@ The lab is built around **Proxmox VE** and is intended to provide a safe environ
 
 ## Next Steps
 
-- [ ] Set up Tailscale for secure remote access.
+- [x] Set up Tailscale for secure remote access.
 - [ ] Document each VM and service as it is deployed.
 - [ ] Implement a backup routine and test a full restore.
 
